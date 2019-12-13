@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\bin\Debug\MulticastDelegateSample1.exe.config
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\bin\Debug\MulticastDelegateSample1.exe
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\bin\Debug\MulticastDelegateSample1.pdb
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\obj\Debug\MulticastDelegateSample1.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\obj\Debug\MulticastDelegateSample1.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\obj\Debug\MulticastDelegateSample1.exe
+C:\Users\walte\source\repos\MulticastDelegateSample1\MulticastDelegateSample1\obj\Debug\MulticastDelegateSample1.pdb
